@@ -3,11 +3,11 @@
 </div>
 <br>
 <div id="badges"  align="center">
-  <a href="www.linkedin.com/in/ashimdongol">
+  <a href="https://www.linkedin.com/in/ashimdongol">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="yhttps://www.instagram.com/iam_ashimdongol/">
-    <img src="https://img.shields.io/badge/Instagram-grey?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/iam_ashimdongol/">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/AshimDongol2">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
