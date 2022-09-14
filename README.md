@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="yhttps://www.instagram.com/iam_ashimdongol/">
-    <img src="https://img.shields.io/badge/Instagram-grey?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-grey?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/AshimDongol2">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -50,3 +50,6 @@ I am Ashim Dongol from Nepal :nepal:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshimD1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshimD1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### Have a great day!!
