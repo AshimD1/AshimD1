@@ -27,7 +27,7 @@ I am Ashim Dongol from Nepal :nepal:
 
 - Visit my website for more : www.ashimdongol.com.np
 
-- :telescope: I’m pursuing a degree in Jain university as Robotics and Automation Engineer :robot:.
+- :telescope: Completed my B.tech in  Robotics and Automation from Jain University :robot:.
 
 - :seedling: Exploring Technical Content Writing.
 
