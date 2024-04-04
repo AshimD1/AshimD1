@@ -40,7 +40,10 @@ I am Ashim Dongol from Nepal :nepal:
 
 - C++
 - python
+- NodeMcu
 - Arduino
+- Machine learning
+- ROS
 
 ---
 
